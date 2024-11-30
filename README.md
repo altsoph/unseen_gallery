@@ -13,3 +13,5 @@ The [final PDF is here](https://github.com/altsoph/unseen_gallery/blob/main/unse
 The [code (pretty messy) is here](https://github.com/altsoph/unseen_gallery/tree/main/scripts).
 
 I'm going to clean it up later, and also to write some post with more technical details; I will share the link here then.
+
+### UPDATE: As promised, there is a [post with technical details and nuances](https://altsoph.substack.com/p/gallery-of-unseen).
